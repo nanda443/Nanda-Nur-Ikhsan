@@ -1,2 +1,0 @@
-# Nanda-Nur-Ikhsan
-Kalkulator
